@@ -1,0 +1,7 @@
+{
+  "name": "SkyElite Private Jets",
+  "description": "Premium accessible private jet charter and aviation services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
